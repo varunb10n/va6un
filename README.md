@@ -2,7 +2,7 @@
 - 👀 I’m interested in :books: :evergreen_tree: :camera: 
 - 🌱 I’m currently learning node, react, computer vision...
 - 💞️ I’m looking to collaborate.
-- 📫 How to reach me [:bird:](https://twitter.com/va6un)
+- 📫 reach me @[:bird:](https://twitter.com/va6un)
 
 <!---
 va6un/va6un is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
