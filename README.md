@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @va6un
 - 👀 I’m interested in :books: :evergreen_tree: :camera: 
 - 🌱 I’m currently learning node, react, computer vision...
-- 💞️ I’m looking to collaborate.
 - 📫 reach me @[:bird:](https://twitter.com/va6un)
 
 <!---
